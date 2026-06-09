@@ -3,7 +3,7 @@
 
 # HROV: Human Reference Oral Virome
 
-**You can access and browse all MRGV data and information in https://doi.org/10.5281/zenodo.20590753**
+**You can access and browse all HROV data and information in https://doi.org/10.5281/zenodo.20590753**
 
 ## HROV Data
 ### 01. Metadata
