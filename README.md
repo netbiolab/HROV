@@ -32,3 +32,9 @@
 | --- | --- | --- |
 |**HROV_Kraken2_REPRESENTATIVE_DB.tar.gz**|Kraken2 DB for 75,987 representative vMAGs|[Click to download (2.0GB)](https://zenodo.org/records/20590753/files/HROV_Kraken2_REPRESENTATIVE_DB.tar.gz?download=1)|
 |**HROV_Kraken2_CONCAT_VARIANT_DB.tar.gz**|Kraken2 DB for 161,688 All vMAGs|[Click to download (2.0GB)](https://zenodo.org/records/20590753/files/HROV_Kraken2_CONCAT_VARIANT_DB.tar.gz?download=1)|
+
+### 04. Host
+| Data |Description| Link |
+| --- | --- | --- |
+|**HROV_HOST_PROFILE_vOTU_LEVEL.tsv**|Host profile for 75,987 representative vOTUs |[Click to download (9.9MB)](https://zenodo.org/records/20590753/files/HROV_HOST_PROFILE_vOTU_LEVEL.tsv?download=1)|
+|**HROV_HOST_PROFILE_VARIANT_LEVEL.tsv**|Host profile for 161,688 |[Click to download (266.0MB)](https://zenodo.org/records/20590753/files/HROV_HOST_PROFILE_VARIANT_LEVEL.tsv?download=1)|
