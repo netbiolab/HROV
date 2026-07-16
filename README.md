@@ -5,6 +5,12 @@
 
 **You can access and browse all HROV data and information in https://doi.org/10.5281/zenodo.20590753**
 
+### License
+
+This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/deed.en).
+
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 ## HROV Data
 ### 01. Metadata
 | Data |Description| Link |
